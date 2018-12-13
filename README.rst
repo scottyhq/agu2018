@@ -16,5 +16,5 @@ Features
 .. _pangeo.binder.io: http://binder.pangeo.io/
 
 .. |Binder| image:: http://binder.pangeo.io/badge.svg
-    :target: http://binder.pangeo.io/v2/gh/scottyhq/age2018/master?urlpath=lab/tree/notebooks/0-dinosar-demo.ipynb
+    :target: http://binder.pangeo.io/v2/gh/scottyhq/agu2018/master?urlpath=lab/tree/notebooks/0-dinosar-demo.ipynb
 
