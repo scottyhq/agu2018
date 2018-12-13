@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - nomkl
-  - gcsfs=0.2
+  - s3fs=0.2
   - intake=0.3
   - curl=7.62
   - python=3.6
